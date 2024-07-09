@@ -1,0 +1,14 @@
+{
+  "MyLink": [
+    {
+      "propName": "path",
+      "propType": "string",
+      "defaultValue": "/"
+    },
+    {
+      "propName": "value",
+      "propType": "string",
+      "defaultValue": "Signup"
+    }
+  ]
+}
