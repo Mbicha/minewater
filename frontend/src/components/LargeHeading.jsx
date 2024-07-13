@@ -8,4 +8,4 @@ const LargeHeading = ({text}) => {
     )
 }
 
-export default LargeHeading
+export default LargeHeading;

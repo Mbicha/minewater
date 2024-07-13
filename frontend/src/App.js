@@ -8,9 +8,11 @@ import NavBar from './components/Navbar';
 const Layout = () => {
   return(
     <>
-      <NavBar />
-      <Outlet />
-      <Footer />
+      <main className='flex flex-col min-h-dvh'>
+        <NavBar />
+        <Outlet />
+        <Footer />
+      </main>
     </>
   )
 }
